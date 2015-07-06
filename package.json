@@ -1,0 +1,22 @@
+{
+  "name": "strummer-plus",
+  "version": "0.0.0",
+  "description": "A set of matchers for Strummer",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Mehdi Valikhani",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "should": "^7.0.1"
+  },
+  "peerDependencies": {
+    "strummer": "^2.0.1"
+  },
+  "dependencies": {
+    "is_js": "^0.7.4",
+    "strummer": "^2.0.1"
+  }
+}
