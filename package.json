@@ -6,6 +6,7 @@
   "scripts": {
     "test": "mocha test"
   },
+  "repository": "mehdivk/strummer-plus",
   "author": "Mehdi Valikhani",
   "license": "ISC",
   "devDependencies": {

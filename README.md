@@ -5,6 +5,9 @@ Strummer+ is a collection of common matchers for [Strummer](https://github.com/T
 - `ObjectId`: Validates ObjectIds.
 - `Email`   : Validates valid email addresses.
 
+##Installation
+`npm install strummer-plus --save`
+
 
 ##Example
 ```javascript
