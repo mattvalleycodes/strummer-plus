@@ -1,6 +1,6 @@
 {
   "name": "strummer-plus",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A set of matchers for Strummer",
   "main": "index.js",
   "scripts": {
