@@ -4,6 +4,7 @@ Strummer+ is a collection of common matchers for [Strummer](https://github.com/T
 ##Matchers
 - `ObjectId`: Validates ObjectIds.
 - `Email`   : Validates valid email addresses.
+- `Coordinates`: Validates an array of two members [longitude, latitude].
 
 ##Installation
 `npm install strummer-plus --save`
@@ -29,3 +30,5 @@ var errors = matcher.match(req.body);
     - Initial release
     - Matchers for ObjectId and Email
 
+- `2015-07-10 - 0.0.2`
+    - Development of Coordinates matcher
