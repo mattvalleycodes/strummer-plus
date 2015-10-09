@@ -5,6 +5,8 @@ Strummer+ is a collection of common matchers for [Strummer](https://github.com/T
 - `ObjectId`: Validates ObjectIds.
 - `Email`   : Validates valid email addresses.
 - `Coordinates`: Validates an array of two members [longitude, latitude].
+- `DateString`: Validates a string for the date can be parsed from it.
+- `Timezone`: Validates a string to be a timezone, based on the IANA Time Zone Database.
 
 ##Installation
 `npm install strummer-plus --save`
