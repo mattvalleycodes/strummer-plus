@@ -7,8 +7,8 @@ Strummer+ is a collection of common matchers for [Strummer](https://github.com/T
 - `Coordinates`: Validates an array of two members [longitude, latitude].
 - `DateString`: Validates a string for the date can be parsed from it.
 - `Timezone`: Validates a string to be a timezone, based on the IANA Time Zone Database.
-- `Latitude`: Validates a latitude.
-- `Longitude`: Validates a longitude.
+- `Latitude`: Validates a latitude. Supported options are `{parse: true}`
+- `Longitude`: Validates a longitude. Supported options are `{parse: true}`
 
 ##Installation
 `npm install strummer-plus --save`
