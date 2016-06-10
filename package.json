@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "is_js": "^0.7.4",
-    "moment-timezone": "^0.4.1",
+    "moment-timezone": "^0.5.4",
     "strummer": "^2.0.1"
   }
 }
