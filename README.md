@@ -9,6 +9,7 @@ Strummer+ is a collection of common matchers for [Strummer](https://github.com/T
 - `Timezone`: Validates a string to be a timezone, based on the IANA Time Zone Database.
 - `Latitude`: Validates a latitude. Supported options are `{parse: true}`
 - `Longitude`: Validates a longitude. Supported options are `{parse: true}`
+- `MobilePhone` : Validates valid mobile phone.
 
 ##Installation
 `npm install strummer-plus --save`
